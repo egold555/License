@@ -3,6 +3,8 @@
 Copyright (c) 2020 <a href="https://erc.golde.org/">Eric Golde</a>
 <br>
 An up-to-date version of this license can be found at <a href="https://github.com/egold555/License/">https://github.com/egold555/License/</a>
+<br>
+⚠️Changes to this license may occur at any time without notice⚠️
 </p>
 
 <br>
